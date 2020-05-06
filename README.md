@@ -25,7 +25,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Desafios
+## :rocket: Desafio
 
 ## :Conlusão do desafio
 
