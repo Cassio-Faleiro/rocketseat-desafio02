@@ -29,7 +29,7 @@
 
 ## :Conlusão do desafio
 
-! [gif da tela] (https://github.com/Cassio-Faleiro/rocketseatdesafio02/blob/master/capTela.gif)
+![gif da tela](https://github.com/Cassio-Faleiro/rocketseatdesafio02/blob/master/capTela.gif)
 
 ## :memo: Licença
 
